@@ -52,7 +52,6 @@ util/          -> constants, extensions, navigation routes, network checker
 
 ## Notes
 
-- This project was built primarily as a learning exercise (first and largest personal project so far).
 - Backend is a course-provided server; base URL is configured in `util/Const.kt`.
 
 ---
@@ -109,7 +108,5 @@ git clone <repo-url>
 ۳. صبر برای Sync شدن Gradle
 ۴. اجرا روی شبیه‌ساز یا دستگاه واقعی (نیاز به مجوز اینترنت)
 
-## نکات
-
-- این پروژه عمدتاً به‌عنوان تمرین یادگیری ساخته شده (اولین و بزرگ‌ترین پروژه‌ی شخصی تا امروز).
+## نکات.
 - بک‌اند، سرور دوره‌ی آموزشی است؛ آدرس پایه در فایل `util/Const.kt` تنظیم شده است.
